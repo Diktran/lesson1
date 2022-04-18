@@ -18,3 +18,5 @@ print(slovar["temperature"])
 "country" in slovar
 slovar["date"] = "27.05.2017"
 print(slovar)
+
+print("Test git")
